@@ -1,0 +1,7 @@
+<?php
+
+$current_path = getcwd();
+require("$current_path/wp-load.php");
+get_header();
+
+?>
